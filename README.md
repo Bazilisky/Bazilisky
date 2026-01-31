@@ -1,62 +1,128 @@
-<h1 align="center">⚡ Gabriel Bazilio — Bazilisky ⚡</h1>
+<div align="center">
+  
+# 🛡️ BAZLISKY | CYBER SECURITY 🛡️
 
-<p align="center">
-  <b>Ethical Hacker</b> • <b>Cybersecurity</b> • <b>Back-End Developer</b><br/>
-  📍 São Paulo, BR • 🔗 <a href="https://www.linkedin.com/in/gabriel-bazilio/">LinkedIn</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher;Penetration+Tester;Full+Stack+Developer;From+S%C3%A3o+Paulo%2C+Brazil" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED;Pentest+%7C+API+Security+%7C+Secure+Back-End;OWASP+Top+10+%E2%80%94+Defense+with+Offense+Mindset;Linux+Hardening+%7C+AuthN%2FAuthZ+%7C+Monitoring" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-NEON%20SECURE-39FF14?style=for-the-badge&logo=protonvpn&logoColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/Focus-API%20%2F%20WEB%20SECURITY-39FF14?style=for-the-badge&logo=fastapi&logoColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/OS-Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0D0D0D" />
-</p>
+```ascii
+┌──(bazlisky㉿github)-[~/profile]
+└─$ cat about.me
+
+> Explorando vulnerabilidades e construindo soluções seguras
+> São Paulo, Brazil | Cyber Security Enthusiast
+```
+
+<div align="center">
+
+## 🎯 ESPECIALIDADES
+
+</div>
+
+```typescript
+const bazlisky = {
+    location: "São Paulo, Brazil 🇧🇷",
+    focus: ["Penetration Testing", "Security Research", "Secure Development"],
+    currently: "Hunting bugs and building secure applications",
+    
+    expertise: {
+        security: ["Kali Linux", "Pentesting", "Vulnerability Assessment"],
+        languages: ["C#", "C++", "JavaScript", "TypeScript"],
+        frameworks: ["React", "Node.js"],
+        mindset: "Security by design"
+    },
+    
+    motto: "In code we trust, in security we must"
+};
+```
+
+<div align="center">
+
+## ⚡ TECH STACK
+
+</div>
+
+<div align="center">
+
+### 🔐 Security & Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🚀 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## 📊 GITHUB STATS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bazlisky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bazlisky&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazlisky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+## 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bazlisky&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+## 🔥 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bazlisky&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-```bash
-> whoami
-Gabriel Bazilio (Bazilisky)
+<div align="center">
 
-> location
-São Paulo, BR
+### 🌐 CONNECT WITH ME
 
-> mission
-break → understand → secure
-Eu atuo na fronteira entre segurança e engenharia back-end:
-construo e avalio sistemas pensando em como atacar, pra então defender direito.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bazlisky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bazlisky)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bazlisky)
 
-🔍 Pentest (Web / API) e análise de vulnerabilidades
+</div>
 
-🛡️ Segurança aplicada a back-end (auth, sessão, rate limit, logs)
+<div align="center">
 
-🐧 Hardening e boas práticas em Linux/servidores
+### 💭 SECURITY QUOTE
 
-⚙️ Automação e integração segura (scripts e ferramentas internas)
-🔐 Offensive & Defensive Toolkit
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,postgres,mongodb,docker,aws,nginx,git" /> </p>
-• OWASP Top 10
-• API Security (JWT, OAuth, RBAC, CORS, Rate-limit)
-• Threat Modeling (prático)
-• Hardening Linux / Nginx
-• Logging / Audit trail / Monitoring
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Security Quote" />
 
-🧪 Labs & Mindset
-if [ "$curiosity" = "true" ]; then
-  enumerate && exploit && patch && document
-fi
-Reproduzir falhas em ambiente controlado
+</div>
 
-Criar mitigação com impacto real
+---
 
-Documentar de forma útil (pra time e pra futuro eu)
-📈 GitHub Activity
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bazilisky&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazilisky&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Bazilisky&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=39FF14" /> </p>
-🟣 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/gabriel-bazilio/"> <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Bazilio-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /> </a> </p>
-STATUS: ONLINE
-THEME: NEON / CYBER / SECURE
-HANDLE: Bazilisky
+<div align="center">
+
+```ascii
+┌──(bazlisky㉿github)-[~/profile]
+└─$ echo "Thanks for visiting! Happy hacking! 🔐"
+
+> Remember: With great power comes great responsibility
+```
+
+<img src="https://komarev.com/ghpvc/?username=Bazlisky&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+**⭐ From [Bazlisky](https://github.com/Bazlisky) | Stay Secure, Stay Anonymous**
+
+</div>
