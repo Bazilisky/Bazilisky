@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System.init();;Accessing+Backend+Architecture...;Target:+Secure+Development;User:+Bazilisky" alt="Typing SVG" />
+</div>
 
-<!--
-**Bazilisky/Bazilisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+user@bazilisky:~$ whoami
+> Gabriel Bazilio | Back-end Developer
+> Foco: Cybersecurity & Secure Coding
+> Localização: [Sua Cidade/Estado]
